@@ -13,12 +13,6 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          <script>InitPoodlApp('poodl-root', {
-  enableDarkMode: true,
-  overrides: {
-    SwapCardTitle: "LakeView Swap"
-  }
-})</script>
         </p>
       </main>
 
